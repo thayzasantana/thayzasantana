@@ -1,8 +1,8 @@
 ### Olá pessoas! Me chamo Thayza Santana 😄
 ##
 
-- ✏️ Sou estudante de desenvolvimento Front-end
-- ❄️ Tenho 22 anos
+- ✏️ Sou Desenvolvedora Front-end formada pelo Start Recife
+- ❄️ Tenho 23 anos
 - 📫 Meu email é: thayzasantana3012@gmail.com
 - 🏠 Pernambuco, Brasil
 
