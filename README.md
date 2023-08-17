@@ -2,7 +2,7 @@
 ##
 
 - ✏️ Sou Desenvolvedora Front-end formada pelo Start Recife
-- ❄️ Tenho 23 anos
+- ❄️ Tenho 24 anos
 - 📫 Meu email é: thayzasantana3012@gmail.com
 - 🏠 Pernambuco, Brasil
 
